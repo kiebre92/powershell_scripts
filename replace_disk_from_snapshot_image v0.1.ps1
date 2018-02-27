@@ -8,10 +8,6 @@
 - Mount disk
 - Save VM config
 - Turn on VM#
-
-
-Jamies a prick
-
 #>
 
 
